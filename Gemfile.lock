@@ -608,7 +608,7 @@ DEPENDENCIES
   dotenv
   draft_generators!
   faker
-  file_to_data_uri
+  file_to_data_uri (< 1.0.0)
   grade_runner (~> 0.0.13)
   haikunator
   htmlbeautifier
